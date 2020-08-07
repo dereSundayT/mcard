@@ -61,11 +61,11 @@ class MyApp extends StatelessWidget {
                       color: Colors.teal,
                     ),
                     title: Text(
-                      'toluwanisunday@gmail.com',
+                      'toluwanisundaydere@gmail.com',
                       style: TextStyle(
                         color: Colors.teal.shade900,
                         fontFamily: 'Source Sans Pro',
-                        fontSize: 20.0,
+                        fontSize: 18.0,
                       ),
                     )),
               ),
